@@ -12,7 +12,7 @@ Format: JSON
 Columns:
 patient_id, age, gender, disease,
 department, visit_count, billing_amount
-Data Issues:
+Data Issues: 
 Missing values
 Duplicate patient IDs
 Incomplete and inconsistent entries
